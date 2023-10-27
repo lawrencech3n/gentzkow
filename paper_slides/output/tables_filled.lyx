@@ -438,6 +438,90 @@ Post-TV
 
 \begin_layout Plain Layout
 
+
+
+\size footnotesize
+
+Note: Table notes
+
+\end_layout
+
+
+
+\end_inset
+
+
+
+
+
+\end_layout
+
+
+
+\begin_layout Standard
+
+\noindent
+
+\begin_inset Float table
+
+placement H
+
+wide false
+
+sideways false
+
+status open
+
+
+
+\begin_layout Plain Layout
+
+\begin_inset Caption Standard
+
+
+
+\begin_layout Plain Layout
+
+Table Title
+
+\begin_inset CommandInset label
+
+LatexCommand label
+
+name "tab:regression-subset"
+
+
+
+\end_inset
+
+
+
+
+
+\end_layout
+
+
+
+\end_inset
+
+
+
+
+
+\begin_inset VSpace defskip
+
+\end_inset
+
+
+
+
+
+\end_layout
+
+
+
+\begin_layout Plain Layout
+
 \align center
 
 \begin_inset Tabular
@@ -548,7 +632,7 @@ p-value
 
 \begin_layout Plain Layout
 
-Post-1960
+Post-TV
 
 \end_layout
 
@@ -566,7 +650,7 @@ Post-1960
 
 \begin_layout Plain Layout
 
-#2,#
+5,037.69
 
 \end_layout
 
@@ -584,7 +668,7 @@ Post-1960
 
 \begin_layout Plain Layout
 
-#2#
+9.60
 
 \end_layout
 
@@ -602,7 +686,7 @@ Post-1960
 
 \begin_layout Plain Layout
 
-#2#
+0.00
 
 \end_layout
 

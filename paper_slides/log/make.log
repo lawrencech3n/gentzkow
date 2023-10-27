@@ -1,5 +1,5 @@
 --------------------------------------------------------------------------------
-Makelog started: 2023-10-26 18:44:55
+Makelog started: 2023-10-27 14:28:55
 Working directory: /Users/lawrencechen/Desktop/gentzkow/paper_slides
 --------------------------------------------------------------------------------
 Input copies successfully created!
@@ -7,7 +7,6 @@ External copies successfully created!
 Source logs successfully written!
 WARNING! The following target files have been modified according to git status:
 /Users/lawrencechen/Desktop/gentzkow/data/output/chips_sold.pdf
-/Users/lawrencechen/Desktop/gentzkow/analysis/output/regression_subset.csv
 Version logs successfully written!
 Executing command: `lyx -e pdf2 "/Users/lawrencechen/Desktop/gentzkow/paper_slides/code/paper.lyx"`
 This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022) (preloaded format=pdflatex)
@@ -53,6 +52,6 @@ L3 programming layer <2022-02-24>
 
 Output logs successfully written!
 --------------------------------------------------------------------------------
-Makelog ended: 2023-10-26 18:45:00
+Makelog ended: 2023-10-27 14:29:00
 Working directory: /Users/lawrencechen/Desktop/gentzkow/paper_slides
 --------------------------------------------------------------------------------
