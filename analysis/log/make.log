@@ -1,6 +1,5 @@
 --------------------------------------------------------------------------------
-Makelog started: 2023-10-23 14:05:47
-Working directory: /Users/lawrencechen/Desktop/gentzkow/analysis
+Makelog started: 2023-10-26 18:44:13
 --------------------------------------------------------------------------------
 Input links successfully created!
 External links successfully created!
@@ -10,9 +9,11 @@ Executing command: `python  "/Users/lawrencechen/Desktop/gentzkow/analysis/code/
 /opt/homebrew/Caskroom/miniconda/base/envs/template/lib/python3.11/site-packages/linearmodels/panel/model.py:1214: MissingValueWarning: 
 Inputs contain missing values. Dropping rows with missing observations.
   super().__init__(dependent, exog, weights=weights, check_rank=check_rank)
+/opt/homebrew/Caskroom/miniconda/base/envs/template/lib/python3.11/site-packages/linearmodels/panel/model.py:1214: MissingValueWarning: 
+Inputs contain missing values. Dropping rows with missing observations.
+  super().__init__(dependent, exog, weights=weights, check_rank=check_rank)
 
 Output logs successfully written!
 --------------------------------------------------------------------------------
-Makelog ended: 2023-10-23 14:05:50
-Working directory: /Users/lawrencechen/Desktop/gentzkow/analysis
+Makelog ended: 2023-10-26 18:44:20
 --------------------------------------------------------------------------------

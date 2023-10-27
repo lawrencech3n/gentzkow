@@ -42,8 +42,8 @@ gs.write_version_logs(PATHS)
 
 ### FILL TABLES
 gs.tablefill(template = 'code/tables.lyx', 
-             inputs   = 'input/regression.csv', 
-             output   = 'output/tables_filled.lyx')
+             inputs = ['input/regression.csv', 'input/regression_subset.csv'],
+             output = 'output/tables_filled.lyx')
 
 ### RUN SCRIPTS
 gs.run_lyx(PATHS, program = 'code/paper.lyx')
