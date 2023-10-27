@@ -1,3 +1,4 @@
 destination | source
 input/regression.csv | /Users/lawrencechen/Desktop/gentzkow/analysis/output/regression.csv
+input/regression_subset.csv | /Users/lawrencechen/Desktop/gentzkow/analysis/output/regression_subset.csv
 input/chips_sold.pdf | /Users/lawrencechen/Desktop/gentzkow/data/output/chips_sold.pdf

@@ -1,20 +1,21 @@
 --------------------------------------------------------------------------------
-Makelog started: 2023-10-22 16:17:49
+Makelog started: 2023-10-26 18:44:13
 Working directory: /Users/lawrencechen/Desktop/gentzkow/analysis
 --------------------------------------------------------------------------------
 Input links successfully created!
 External links successfully created!
 Source logs successfully written!
-WARNING! The following target files have been modified according to git status:
-/Users/lawrencechen/Desktop/gentzkow/data/output/data_cleaned.csv
 Version logs successfully written!
 Executing command: `python  "/Users/lawrencechen/Desktop/gentzkow/analysis/code/analyze_data.py" `
+/opt/homebrew/Caskroom/miniconda/base/envs/template/lib/python3.11/site-packages/linearmodels/panel/model.py:1214: MissingValueWarning: 
+Inputs contain missing values. Dropping rows with missing observations.
+  super().__init__(dependent, exog, weights=weights, check_rank=check_rank)
 /opt/homebrew/Caskroom/miniconda/base/envs/template/lib/python3.11/site-packages/linearmodels/panel/model.py:1214: MissingValueWarning: 
 Inputs contain missing values. Dropping rows with missing observations.
   super().__init__(dependent, exog, weights=weights, check_rank=check_rank)
 
 Output logs successfully written!
 --------------------------------------------------------------------------------
-Makelog ended: 2023-10-22 16:17:53
+Makelog ended: 2023-10-26 18:44:20
 Working directory: /Users/lawrencechen/Desktop/gentzkow/analysis
 --------------------------------------------------------------------------------
